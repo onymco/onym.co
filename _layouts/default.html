@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>    
+    <main class="site__content">
+      {% for resource in site.resources limit: 1 %}
+      <article id="{{ resource.slug | slice: 3, resource.slug.size }}">
+        <header>
+          <div class="wrapper">
+            <div class="title">
+              <div class="brand-bars logo"></div>
+              <h1>
+                {{ resource.title }}
+                {% if resource.subtitle %}<span class="subtitle">{{ resource.subtitle }}</span>{% endif %}
+                <a href="#{{ resource.slug }}"></a>
+              </h1>
+            </div>
+            <div class="subhead">
+              <div class="subwrapper">
+                <a href="mailto: contact@onym.co">Contact</a>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="content longform wrapper">
+          {{ resource.content }}
+        </div>
+      </article>
+      {% endfor %}
+    </main>
+    <div id="bottom-banner" class="brand-bars"></div>
+  </body>
+</html>
