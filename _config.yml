@@ -19,9 +19,3 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
-
-# Content grouping
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:name/
