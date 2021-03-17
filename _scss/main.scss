@@ -18,7 +18,9 @@ body {
 
 a {
   color: inherit;
-  &:hover {
+}
+p, .subhead {
+  a:hover {
     opacity: 0.5;
   }
 }
@@ -40,15 +42,6 @@ a {
   color: $grey;
 }
 
-main {
-  p:first-of-type {
-    color: $white;
-  }
-  p {
-    color: $grey;
-  }
-}
-
 h2 {
   margin-top: 4.875rem;
   margin-bottom: 3.125rem;
@@ -61,6 +54,20 @@ h3 {
 h4, p {
   margin-bottom: 1rem;
 }
+
+$iconSize: 3.75rem;
+.logo {
+  width: $iconSize;
+  display: inline-block;
+  height: $iconSize;
+  margin: 0.25rem 2.5rem 0.25rem 0;
+  vertical-align: middle;
+  @media (max-width: $mobile-width) {
+    height: 2rem;
+    margin-right: 1rem;
+  }
+}
+
 #bottom-banner {
   z-index: 99;
   position: fixed;
@@ -74,7 +81,7 @@ h4, p {
 .wrapper {
   max-width: 51.875rem;
   margin: 0 auto;
-  padding: 2.875rem 2rem;
+  padding: 2.875rem 2rem 12rem;
   @media (max-width: $mobile-width) {
     margin: 0;
   }
@@ -88,21 +95,14 @@ header {
     display: inline-block;
     vertical-align: middle;
     margin: 0.25rem 0;
-  }
-  $iconSize: 3.75rem;
-  .logo {
-    width: $iconSize;
-    display: inline-block;
-    height: $iconSize;
-    margin: 0.25rem 2.5rem 0.25rem 0;
-    vertical-align: middle;
-    @media (max-width: $mobile-width) {
-      height: 2rem;
-      margin-right: 1rem;
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
-
 .subtitle {
   font-weight: normal;
 }
@@ -130,19 +130,33 @@ header {
   }
 }
 main {
-  &, p:first-of-type {
-    font-size: 2.5rem;
-  }
+  font-size: 2.5rem;
   p:first-of-type {
     margin: 2rem 0;
   }
-  p {
+  p + p {
+    color: $grey;
     font-size: 1.75rem;
   }
+  ul + p {
+    font-size: 1rem;
+  }
+}
+
+ul {
+  list-style: none;
+  margin-bottom: 2rem;
 }
 li {
+  a {
+    text-decoration: none;
+    display: block;
+  }
   em {
+    font-size: 1.75rem;
+    font-style: normal;
     display: none;
+    color: $grey;
   }
   &:hover em {
     display: inline;

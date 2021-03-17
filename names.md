@@ -6,21 +6,21 @@ subtitle: "Names"
 Here are some of the companies and products we have had the
 opportunity to name. 
 
-- Basis *Add payroll to your product*
-- Bedrock *Add payroll to your product*
-- Check *Add payroll to your product*
-- Cove *Add payroll to your product*
-- Common Table *Add payroll to your product*
-- Evens *Add payroll to your product*
-- Garner *Add payroll to your product*
-- Keeps *Add payroll to your product*
-- Lumin *Add payroll to your product*
-- Nava *Add payroll to your product*
-- Oyster *Add payroll to your product*
-- Picnic *Add payroll to your product*
-- Scope Security *Add payroll to your product*
-- The Browser Company *Add payroll to your product*
-- Zero *Add payroll to your product*
+- [Basis *Description goes here*](http://example.com)
+- Bedrock *Description goes here*
+- Check *Description goes here*
+- Cove *Description goes here*
+- Common Table *Description goes here*
+- Evens *Description goes here*
+- Garner *Description goes here*
+- Keeps *Description goes here*
+- Lumin *Description goes here*
+- Nava *Description goes here*
+- Oyster *Description goes here*
+- Picnic *Description goes here*
+- Scope Security *Description goes here*
+- The Browser Company *Description goes here*
+- Zero *Description goes here*
 
-Get in touch to access our case studies to learn more about these and
-other projects. 
+[Get in touch](mailto: contact@onym.co) to access our case studies to
+learn more about these and other projects. 
