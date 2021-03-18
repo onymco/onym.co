@@ -6,7 +6,7 @@ subtitle: "Names"
 Here are some of the companies and products we have had the
 opportunity to&nbsp;name. 
 
-- [Basis *Description goes here*](http://example.com)
+- Basis *Description goes here*
 - Bedrock *Description goes here*
 - Check *Description goes here*
 - Cove *Description goes here*

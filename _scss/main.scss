@@ -159,7 +159,10 @@ li {
     display: none;
     color: $grey;
   }
-  &:hover em {
+  &:hover {
+    cursor: default;
+    em {
     display: inline;
+    }
   }
 }
