@@ -4,7 +4,7 @@ subtitle: "Names"
 ---
 
 Here are some of the companies and products we have had the
-opportunity to name. 
+opportunity to&nbsp;name. 
 
 - [Basis *Description goes here*](http://example.com)
 - Bedrock *Description goes here*
