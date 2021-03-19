@@ -133,7 +133,20 @@ main {
   font-size: 2.5rem;
   p:first-of-type {
     margin: 2rem 0;
-    text-decoration-thickness: 0.1rem;
+    a {
+      text-decoration: none;
+      position: relative;
+      &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 4px;
+        right: 0;
+        margin: auto;
+        background: $white;
+        height: 0.15rem;
+      }
+    }
   }
   p + p {
     color: $grey;
