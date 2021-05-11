@@ -56,14 +56,16 @@ h4, p {
 }
 
 $iconSize: 3.75rem;
+$iconMobileSize: 2rem;
 .logo {
-  width: $iconSize;
   display: inline-block;
   height: $iconSize;
+  width: $iconSize;
   margin: 0.25rem 2.5rem 0.25rem 0;
   vertical-align: middle;
   @media (max-width: $mobile-width) {
-    height: 2rem;
+    height: $iconMobileSize;
+    width: $iconMobileSize;
     margin-right: 1rem;
   }
 }
