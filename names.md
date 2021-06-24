@@ -21,7 +21,8 @@ opportunity to&nbsp;name.
 - Modern Life *Description goes here*
 - Nava *Description goes here*
 - Oyster *Description goes here*
-- Picnic *Description goes here*
+- Picnic *This is a long description that should be replaced with
+  something else*
 - Scope Security *Description goes here*
 - The Browser Company of New York *Description goes here*
 - Ultraviolet *Description goes here*
