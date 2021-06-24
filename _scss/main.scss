@@ -195,13 +195,13 @@ ul {
   line-height: 2.5rem;
 }
 li {
-  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
   a {
     text-decoration: none;
     display: block;
   }
   em {
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     line-height: 1.75rem;
     font-style: normal;
     display: none;
@@ -210,7 +210,7 @@ li {
   &:hover {
     cursor: default;
     em {
-    display: inline;
+      display: block;
     }
   }
 }
