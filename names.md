@@ -3,8 +3,7 @@ title: "Onym"
 subtitle: "Names"
 ---
 
-Here are some of the companies and products we have had the
-opportunity to&nbsp;name. 
+Here are some of the companies and products we have had the pleasure of working to name.
 
 - Basis 
   *An on-demand mental health service, democratizing therapy and life-coaching.*
