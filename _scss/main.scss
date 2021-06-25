@@ -69,17 +69,8 @@ p, .subhead {
   }
 }
 
-h2 {
-  margin-top: 4.875rem;
-  margin-bottom: 3.125rem;
-}
-
-h3 {
-  margin: 3.125rem 0 1.5rem;
-}
-
-h4, p {
-  margin-bottom: 1rem;
+p {
+  padding: 1rem 0;
 }
 
 $iconSize: 3.75rem;
@@ -119,7 +110,7 @@ $iconMobileSize: 2rem;
 header {
   position: relative;
   width: 100%;
-  margin-bottom: 2.875rem;
+  margin-bottom: 1.875rem;
   h1 {
     display: inline-block;
     vertical-align: middle;
@@ -158,13 +149,12 @@ header {
     transform: translateY(-50%);
   }
 }
-.names main p:first-of-type {
+.names main > p:first-of-type {
   font-size: 1.75rem;
 }
 main {
   font-size: 2.5rem;
   p:first-of-type {
-    margin: 2rem 0;
     a {
       text-decoration: none;
       position: relative;
@@ -192,25 +182,24 @@ main {
 ul {
   list-style: none;
   margin-bottom: 2rem;
-  line-height: 2.5rem;
+  column-count: 2;
+  @media (max-width: $mobile-width) {
+    column-count: 1;
+  }
 }
 li {
-  padding-bottom: 1.5rem;
-  a {
-    text-decoration: none;
-    display: block;
+  padding: 1rem 0;
+  color: $grey;
+  display: inline-block;
+  h2 {
+    font-size: inherit;
+    font-weight: inherit;
+    color: $white;
+    margin-bottom: 0.5rem;
   }
-  em {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-    font-style: normal;
-    display: none;
-    color: $grey;
-  }
-  &:hover {
-    cursor: default;
-    em {
-      display: block;
-    }
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding: 0;
   }
 }
