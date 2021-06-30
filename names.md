@@ -3,7 +3,8 @@ title: "Onym"
 subtitle: "Names"
 ---
 
-Here are some of the companies and products we have had the pleasure of working to name.
+Below are some of the companies and products we have had the pleasure of working to name.
+[Get in touch](mailto: contact@onym.co) for case studies and to learn more.
 
 - ## Basis
   An on-demand mental health service, democratizing therapy and life-coaching.
