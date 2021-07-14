@@ -40,7 +40,7 @@ Below are some of the companies and products we have had the pleasure of working
   Direct-to-consumer care making allergies, from seasonal to food, a walk in the park.
 - ## Scope Security
   Cybersecurity purpose built for the healthcare industry.
-- ## The Browser Company of New York
+- ## The Browser Company
   A better way to browse the web.
 - ## Ultraviolet
   An early-stage venture capital firm focused on environmentally conscious companies.
