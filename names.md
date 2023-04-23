@@ -6,8 +6,10 @@ subtitle: "Names"
 Below are some of the companies and products we have had the pleasure of working to name.
 [Get in touch](mailto: contact@onym.co) for case studies and to learn more.
 
-- ## Basis
-  An on-demand mental health service, democratizing therapy and life-coaching.
+- ## Alza
+  Banking and financial products for people on the rise.
+- ## BCG
+  Advising Boston Consulting Group and their clients on new ventures.
 - ## Bedrock
   An early stage investment firm built in search of narrative violations.
 - ## Cadence
@@ -34,6 +36,10 @@ Below are some of the companies and products we have had the pleasure of working
   Bringing technology and personalized support to help everyone protect what matters most.
 - ## Nava
   A new kind of benefits brokerage focused on fixing healthcare, one benefits plan at a time.
+- ## Neon
+  Payments, storefront, and loyalty for forward-thinking game developers.
+- ## Numeric
+  Automation for accounting teams to speed month-end close.
 - ## Oyster
   The first “Netflix for Books” – with Oyster, the world is yours for the reading.
 - ## Picnic
@@ -42,8 +48,6 @@ Below are some of the companies and products we have had the pleasure of working
   Cybersecurity purpose built for the healthcare industry.
 - ## The Browser Company
   A better way to browse the web.
-- ## Ultraviolet
-  An early-stage venture capital firm focused on environmentally conscious companies.
 - ## Zeal Talent Ventures
   Partners in executive, founder, and incubations search.
 
