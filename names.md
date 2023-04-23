@@ -46,6 +46,8 @@ Below are some of the companies and products we have had the pleasure of working
   Direct-to-consumer care making allergies, from seasonal to food, a walk in the park.
 - ## Scope Security
   Cybersecurity purpose built for the healthcare industry.
+- ## Sequence
+  A modern approach to weightloss (acquired by WeightWatchers).
 - ## The Browser Company
   A better way to browse the web.
 - ## Zeal Talent Ventures
