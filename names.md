@@ -24,8 +24,6 @@ Below are some of the companies and products we have had the pleasure of working
   The acid reflux care that makes it easy to maintain a cool balance through all of life’s moments and riches.
 - ## Garner Health
   Data science driving insights in doctor quality, outcomes, and discovery.
-- ## Hyperbloom
-  An editorial magazine tackling climate change through the lens of the fashion industry.
 - ## Imprint
   Enabling brands to create rewarding, lasting relationships with their customers.
 - ## Keeps
@@ -41,13 +39,13 @@ Below are some of the companies and products we have had the pleasure of working
 - ## Numeric
   Automation for accounting teams to speed month-end close.
 - ## Oyster
-  The first “Netflix for Books” – with Oyster, the world is yours for the reading.
+  The first “Netflix for Books” – with Oyster, the world is yours for the reading. (Acquired by Google)
 - ## Picnic
   Direct-to-consumer care making allergies, from seasonal to food, a walk in the park.
 - ## Scope Security
   Cybersecurity purpose built for the healthcare industry.
 - ## Sequence
-  A modern approach to weightloss (acquired by WeightWatchers).
+  A modern approach to weightloss. (Acquired by WeightWatchers)
 - ## The Browser Company
   A better way to browse the web.
 - ## Zeal Talent Ventures
