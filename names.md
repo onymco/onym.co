@@ -8,6 +8,8 @@ Below are some of the companies and products we have had the pleasure of working
 
 - ## Alza
   Banking and financial products for people on the rise.
+- ## Assembly
+  Aircraft-grade prefabrication for large scale construction, from world renowned firm SHoP Architects.
 - ## BCG
   Advising Boston Consulting Group and their clients on new ventures.
 - ## Bedrock
